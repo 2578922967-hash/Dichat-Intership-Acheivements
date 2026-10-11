@@ -1,6 +1,6 @@
 # Dichat Internship Achievements
 
-本仓库用于沉淀我在 Dichat 实习期间的核心项目成果（投简历版），覆盖朗豪坊（Langham Place）、HSH（HIP SHING HONG）与芬名（The Fleming）等客户的社媒运营、数据分析与 KOL 合作实践。
+本仓库用于沉淀我在 Dichat 实习期间的核心项目成果，覆盖朗豪坊（Langham Place）、HSH（HIP SHING HONG）与芬名（The Fleming）等客户的社媒运营、数据分析与 KOL 合作实践。
 
 ## 项目概览
 
@@ -74,6 +74,3 @@
 
 - `芬名/The Fleming XHS+WeChat Content Plan 2026.xlsx`
 
-## 可用于简历的项目描述（可直接粘贴）
-
-在 Dichat 实习期间，独立/协同负责朗豪坊、HSH、芬名等客户的新媒体运营与增长项目，覆盖小红书、微信、抖音、视频号等平台。通过搭建竞品与自有账号数据监测体系、结合 AI 热点挖掘进行选题优化、标准化内容生产流程，并推进 50+ KOL 合作，实现抖音月度浏览完成率 335%、视频号月度浏览完成率 237%、小红书粉丝增长 117%，并在达人投放中达成月度 12.3 万+浏览与 9700+互动。
